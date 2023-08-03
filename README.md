@@ -34,4 +34,5 @@ This Repository uses Python and unsupervised learning to predict if cryptocurren
 ## Compare both methods using the plots created to highlight key differences
 <img width="707" alt="Screenshot 2023-08-03 at 1 04 00 PM" src="https://github.com/m-janssens-boop/CryptoClustering/assets/127706155/09dc2586-438d-41ef-8c10-546dff335878">
 
-<img width="708" alt="Screenshot 2023-08-03 at 1 03 48 PM" src="https://github.com/m-janssens-boop/CryptoClustering/assets/127706155/4d71e50a-aa34-4dae-a6de-058643d99076">
+<img width="707" alt="Screenshot 2023-08-03 at 1 16 26 PM" src="https://github.com/m-janssens-boop/CryptoClustering/assets/127706155/016a4ed0-a9da-40c1-a1d7-b21ca4ec7eff">
+
